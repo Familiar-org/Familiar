@@ -1,2 +1,2 @@
 # Familiar
-Repository of Familiar
+Repository of Familiar project
